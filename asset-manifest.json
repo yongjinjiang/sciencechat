@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.680a205f.chunk.css",
-    "main.js": "/static/js/main.b82e2a3a.chunk.js",
-    "main.js.map": "/static/js/main.b82e2a3a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a72496fc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a72496fc.js.map",
-    "static/js/2.c476cdce.chunk.js": "/static/js/2.c476cdce.chunk.js",
-    "static/js/2.c476cdce.chunk.js.map": "/static/js/2.c476cdce.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.643f46ada613a1553e34392e5f925fa8.js": "/precache-manifest.643f46ada613a1553e34392e5f925fa8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.680a205f.chunk.css.map": "/static/css/main.680a205f.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
+    "main.css": "/sciencechat/static/css/main.680a205f.chunk.css",
+    "main.js": "/sciencechat/static/js/main.49923221.chunk.js",
+    "main.js.map": "/sciencechat/static/js/main.49923221.chunk.js.map",
+    "runtime-main.js": "/sciencechat/static/js/runtime-main.9dfbfa77.js",
+    "runtime-main.js.map": "/sciencechat/static/js/runtime-main.9dfbfa77.js.map",
+    "static/js/2.c476cdce.chunk.js": "/sciencechat/static/js/2.c476cdce.chunk.js",
+    "static/js/2.c476cdce.chunk.js.map": "/sciencechat/static/js/2.c476cdce.chunk.js.map",
+    "index.html": "/sciencechat/index.html",
+    "precache-manifest.390244e3d73e0b67f64e4c818141d1d2.js": "/sciencechat/precache-manifest.390244e3d73e0b67f64e4c818141d1d2.js",
+    "service-worker.js": "/sciencechat/service-worker.js",
+    "static/css/main.680a205f.chunk.css.map": "/sciencechat/static/css/main.680a205f.chunk.css.map",
+    "static/media/logo.svg": "/sciencechat/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a72496fc.js",
+    "static/js/runtime-main.9dfbfa77.js",
     "static/js/2.c476cdce.chunk.js",
     "static/css/main.680a205f.chunk.css",
-    "static/js/main.b82e2a3a.chunk.js"
+    "static/js/main.49923221.chunk.js"
   ]
 }
