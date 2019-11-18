@@ -70,7 +70,9 @@ The last two weeks we covered some intriguing ideas related to quantu
 <li>How these scentific facts "points to" the existence of God describd in bible? </li>
 
 </ol>
-
+ <br />
+        <br /> <br />
+        <br />
 
         </div>
 
