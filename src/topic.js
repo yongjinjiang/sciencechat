@@ -55,24 +55,16 @@ export default class topic extends Component {
 </Card> */}
 
 
-        <Card style={{backgroundColor:"#7ea8cc"}}>
+        <Card >
   {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
   <Card.Body>
     {/* <Card.Title><p style={{auto:"center",color:"blue",fontSize:25,}}> Speaker: Kevin Ching</p> */}
-    <Card.Title>Speaker: Kevin Ching
+    <Card.Title style={{backgroundColor:"#7ea8cc"}}><p>Speaker: Kevin Ching</p>
+    <p> --- data scientist at United Health </p>
 </Card.Title>
-    <Card.Text>
-    {/* <p style={{auto:"center",color:"green",fontSize:20,}}>--- data scientist at United Health </p> */}
-     --- data scientist at United Health 
-    </Card.Text>
-    {/* <Button variant="primary">Go somewhere</Button> */}
-  </Card.Body>
-</Card>
+    <Card.Text >
 
-     <br />
-        <br />
-
-        <p style={{color: "red",fontSize:40}}>What is the nature of quantum interference?</p>
+        <p style={{color: "red",fontSize:40}}>Theological thoughts on Quantum mechanics and relativity</p>
         
 
 {/* <p style={{auto:"center",color:"blue",fontSize:25,}}> Speaker: Kevin Ching </p>
@@ -82,29 +74,37 @@ export default class topic extends Component {
 
   
 {/* <p style={{textAlign:"justify",width: 1200, wordWrap: "break-word", display: "block",marginLeft: "auto", marginRight: "auto"}}> */}
-<p style={{textAlign:"justify", position:"absolute",left:10}}>
+<p style={{textAlign:"justify"}}>
 
 <span>&nbsp;&nbsp;</span>The last two weeks we covered some intriguing ideas related to quantum interference and the delayed choice quantum eraser in quantum mechanics, as well as the concept of time, especially, the extended simultaneity concept in relativity. This week, we will present some thoughts on these topics in a theological viewpoint!</p>
 <br />
-        <br /> <br />
-        <br /> <br />
-        <br /> 
-
+      
         <p style={{size:30}}><b>Address</b>: Room D504, Bethlehem Baptist Church North Campus,</p>
           <p style={{size:30}}>5151 Program Ave
 Mounds View, Minnesota 55112</p>
 <p ><center><b>Time</b>:  7 pm to 8 pm, Nov 20(Wednesday)</center></p>
   
             <p style={{color: "red",fontSize:40}}>All are Welcome!</p>
-</div>
 
+
+</Card.Text>
+    {/* <Button variant="primary">Go somewhere</Button> */}
+  </Card.Body>
+</Card>
+</div>
 {/* <div className="col-md-1">
 
      </div> */}
 
         <div className="col-md-6">
+
+
         <br />
         <br /> <br />
+
+        <br />
+        <br /> <br /> <br />
+        
       
 
 <p style={{color: "blue",fontSize:20,   position: "absolute",left: 30}}>Some videos to watch:</p>
