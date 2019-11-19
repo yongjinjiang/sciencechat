@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc596d287c8754a630673da1540f20a9",
+    "revision": "6b8d4815bb1d7cc1d262daa46b8abb26",
     "url": "/sciencechat/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sciencechat/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "b27e31147c3811dc5ea5",
+    "revision": "a5bdf9507f4f45d333db",
     "url": "/sciencechat/static/css/main.5a856e0a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sciencechat/static/js/2.0daed6e4.chunk.js"
   },
   {
-    "revision": "b27e31147c3811dc5ea5",
-    "url": "/sciencechat/static/js/main.13ad83e8.chunk.js"
+    "revision": "a5bdf9507f4f45d333db",
+    "url": "/sciencechat/static/js/main.3642f09e.chunk.js"
   },
   {
     "revision": "5f6a016abe40b69bee51",

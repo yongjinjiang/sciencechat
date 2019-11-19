@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sciencechat/static/css/main.5a856e0a.chunk.css",
-    "main.js": "/sciencechat/static/js/main.13ad83e8.chunk.js",
-    "main.js.map": "/sciencechat/static/js/main.13ad83e8.chunk.js.map",
+    "main.js": "/sciencechat/static/js/main.3642f09e.chunk.js",
+    "main.js.map": "/sciencechat/static/js/main.3642f09e.chunk.js.map",
     "runtime-main.js": "/sciencechat/static/js/runtime-main.9dfbfa77.js",
     "runtime-main.js.map": "/sciencechat/static/js/runtime-main.9dfbfa77.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "/sciencechat/static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.0daed6e4.chunk.js": "/sciencechat/static/js/2.0daed6e4.chunk.js",
     "static/js/2.0daed6e4.chunk.js.map": "/sciencechat/static/js/2.0daed6e4.chunk.js.map",
     "index.html": "/sciencechat/index.html",
-    "precache-manifest.1baa47644361c7f2ddbc1211330551b5.js": "/sciencechat/precache-manifest.1baa47644361c7f2ddbc1211330551b5.js",
+    "precache-manifest.828592bd32289a8d92168228b41e73c6.js": "/sciencechat/precache-manifest.828592bd32289a8d92168228b41e73c6.js",
     "service-worker.js": "/sciencechat/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/sciencechat/static/css/2.b0bb7f2c.chunk.css.map",
     "static/css/main.5a856e0a.chunk.css.map": "/sciencechat/static/css/main.5a856e0a.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.0daed6e4.chunk.js",
     "static/css/main.5a856e0a.chunk.css",
-    "static/js/main.13ad83e8.chunk.js"
+    "static/js/main.3642f09e.chunk.js"
   ]
 }
