@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/sciencechat/static/css/main.680a205f.chunk.css",
-    "main.js": "/sciencechat/static/js/main.49923221.chunk.js",
-    "main.js.map": "/sciencechat/static/js/main.49923221.chunk.js.map",
+    "main.css": "/sciencechat/static/css/main.5a856e0a.chunk.css",
+    "main.js": "/sciencechat/static/js/main.13ad83e8.chunk.js",
+    "main.js.map": "/sciencechat/static/js/main.13ad83e8.chunk.js.map",
     "runtime-main.js": "/sciencechat/static/js/runtime-main.9dfbfa77.js",
     "runtime-main.js.map": "/sciencechat/static/js/runtime-main.9dfbfa77.js.map",
-    "static/js/2.c476cdce.chunk.js": "/sciencechat/static/js/2.c476cdce.chunk.js",
-    "static/js/2.c476cdce.chunk.js.map": "/sciencechat/static/js/2.c476cdce.chunk.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/sciencechat/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.0daed6e4.chunk.js": "/sciencechat/static/js/2.0daed6e4.chunk.js",
+    "static/js/2.0daed6e4.chunk.js.map": "/sciencechat/static/js/2.0daed6e4.chunk.js.map",
     "index.html": "/sciencechat/index.html",
-    "precache-manifest.390244e3d73e0b67f64e4c818141d1d2.js": "/sciencechat/precache-manifest.390244e3d73e0b67f64e4c818141d1d2.js",
+    "precache-manifest.1baa47644361c7f2ddbc1211330551b5.js": "/sciencechat/precache-manifest.1baa47644361c7f2ddbc1211330551b5.js",
     "service-worker.js": "/sciencechat/service-worker.js",
-    "static/css/main.680a205f.chunk.css.map": "/sciencechat/static/css/main.680a205f.chunk.css.map",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/sciencechat/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.5a856e0a.chunk.css.map": "/sciencechat/static/css/main.5a856e0a.chunk.css.map",
     "static/media/logo.svg": "/sciencechat/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9dfbfa77.js",
-    "static/js/2.c476cdce.chunk.js",
-    "static/css/main.680a205f.chunk.css",
-    "static/js/main.49923221.chunk.js"
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.0daed6e4.chunk.js",
+    "static/css/main.5a856e0a.chunk.css",
+    "static/js/main.13ad83e8.chunk.js"
   ]
 }
