@@ -9,52 +9,104 @@ import {Card, Button} from 'react-bootstrap'
 import axios from 'axios'
 
 
-var topic = function (){
+// var topic = function (){
+//  return(
+export default class topic extends Component {
+ 
+   
+  constructor(props) {
+    super(props);
+    this.state = {}
+  } 
+  render() {return(
 
-    
-  return(
+<div>
+{/* <Card  >
+        <Card.Heading>
+          <Card.Title componentClass="h3">Kevin Ching</Card.Title>
+          <Card.Title componentClass="h3">Data scientist of United Health</Card.Title>
+        </Card.Heading>
+        <Card.Body></Card.Body>
+</Card> */}
+
+
 
   
-<div className="addmargin">
+  <div  className="container">
+<div className="row">
 
     
-     <div>
+     <div className="col-md-6">
 
 
-<p style={{size:30}}>Address: Room D504, Bethlehem Baptist Church North Campus,</p>
-          <p style={{size:30}}>5151 Program Ave
-Mounds View, Minnesota 55112</p>
-<p ><center>Time:  7 pm to 8 pm, Nov 20(Wednesday)</center></p>
-
-<p style={{auto:"center",color:"blue",fontSize:30,}}> Speaker: Kevin Ching </p>
-<p style={{auto:"center",color:"green",fontSize:20,}}>--- data scientist at United Health </p>
-
-<p style={{auto:"center",color:"red",fontSize:40,}}> Abstract </p>
-
-
-  
-{/* <p style={{textAlign:"justify",width: 1200, wordWrap: "break-word", display: "block",marginLeft: "auto", marginRight: "auto"}}> */}
-<h5 style={{textAlign:"left", position:"absolute",left:30}}>
-<span>&nbsp;&nbsp;</span>The last two weeks we covered some intriguing ideas related to quantum interference and the delayed choice
-quantum eraser in quantum mechanics, as well as the concept of time, especially, the extended simultaneity 
-concept in relativity. This week, we will present some thoughts on these topics in 
-a theological viewpoint!  
-</h5>
-{/* style={{ width: 1200,position: "absolute",left: 30 }} */}
-{/* <Card >
+     {/* <Card >
   <Card.Img variant="top" src="holder.js/100px180" />
   <Card.Body>
-    <Card.Title></Card.Title>
-    <Card.Text style={{textAlign:"left"}}>
-    The last two weeks we covered some intriguing ideas related to quantum interference and the delayed choice quantum eraser in quantum mechanics,as well as the concept of time, especially, the extended simultaneity concept in relativity. This week,we will presents some thoughts on these topics in a theological viewpoint!   
+    <Card.Title><p style={{auto:"center",color:"red",fontSize:40,}}> Some thougts based on quantum mechnaics and relativity </p>
+</Card.Title>
+    <Card.Text>
+    <p style={{textAlign:"justify", position:"absolute",left:10}}>
+
+<span>&nbsp;&nbsp;</span>The last two weeks we covered some intriguing ideas related to quantum interference and the delayed choice quantum eraser in quantum mechanics, as well as the concept of time, especially, the extended simultaneity concept in relativity. This week, we will present some thoughts on these topics in a theological viewpoint!</p>
+
     </Card.Text>
     <Button variant="primary">Go somewhere</Button>
   </Card.Body>
 </Card> */}
 
+
+        <Card style={{backgroundColor:"#7ea8cc"}}>
+  {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
+  <Card.Body>
+    {/* <Card.Title><p style={{auto:"center",color:"blue",fontSize:25,}}> Speaker: Kevin Ching</p> */}
+    <Card.Title>Speaker: Kevin Ching
+</Card.Title>
+    <Card.Text>
+    {/* <p style={{auto:"center",color:"green",fontSize:20,}}>--- data scientist at United Health </p> */}
+     --- data scientist at United Health 
+    </Card.Text>
+    {/* <Button variant="primary">Go somewhere</Button> */}
+  </Card.Body>
+</Card>
+
+     <br />
+        <br />
+
+        <p style={{color: "red",fontSize:40}}>What is the nature of quantum interference?</p>
+        
+
+{/* <p style={{auto:"center",color:"blue",fontSize:25,}}> Speaker: Kevin Ching </p>
+<p style={{auto:"center",color:"green",fontSize:20,}}>--- data scientist at United Health </p>
+
+ */}
+
+  
+{/* <p style={{textAlign:"justify",width: 1200, wordWrap: "break-word", display: "block",marginLeft: "auto", marginRight: "auto"}}> */}
+<p style={{textAlign:"justify", position:"absolute",left:10}}>
+
+<span>&nbsp;&nbsp;</span>The last two weeks we covered some intriguing ideas related to quantum interference and the delayed choice quantum eraser in quantum mechanics, as well as the concept of time, especially, the extended simultaneity concept in relativity. This week, we will present some thoughts on these topics in a theological viewpoint!</p>
 <br />
         <br /> <br />
+        <br /> <br />
+        <br /> 
+
+        <p style={{size:30}}><b>Address</b>: Room D504, Bethlehem Baptist Church North Campus,</p>
+          <p style={{size:30}}>5151 Program Ave
+Mounds View, Minnesota 55112</p>
+<p ><center><b>Time</b>:  7 pm to 8 pm, Nov 20(Wednesday)</center></p>
+  
+            <p style={{color: "red",fontSize:40}}>All are Welcome!</p>
+</div>
+
+{/* <div className="col-md-1">
+
+     </div> */}
+
+        <div className="col-md-6">
         <br />
+        <br /> <br />
+      
+
 <p style={{color: "blue",fontSize:20,   position: "absolute",left: 30}}>Some videos to watch:</p>
    
         <br />
@@ -91,14 +143,16 @@ a theological viewpoint!  
         <br />
 
         </div>
+        </div>
 
 </div>
+</div>
        
-       )
+  )
        
     }
 
-    export default topic; 
+    // export default topic; 
 
          
-       
+    }
