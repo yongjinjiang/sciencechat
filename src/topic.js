@@ -1,4 +1,6 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
+
+import {Card, Button} from 'react-bootstrap'
 
 // import { Panel } from 'bootstrap'
 // import Panel from 'react-bootstrap/lib/Panel'
@@ -13,7 +15,7 @@ var topic = function (){
   return(
 
   
-
+<div className="addmargin">
 
     
      <div>
@@ -29,16 +31,30 @@ Mounds View, Minnesota 55112</p>
 
 <p style={{auto:"center",color:"red",fontSize:40,}}> Abstract </p>
 
-<p style={{textAlign:"justify",width: 1200, wordWrap: "break-word"}}>
 
-The last two weeks we covered some intriguing ideas related to quantum interference and the delayed choice quantum eraser in quantum mechanics,as well as the concept of time, especially, the extended simultaneity concept in relativity. This week,we will presents some thoughts on these topics in a theological viewpoint!   
+  
+{/* <p style={{textAlign:"justify",width: 1200, wordWrap: "break-word", display: "block",marginLeft: "auto", marginRight: "auto"}}> */}
+<h5 style={{textAlign:"left", position:"absolute",left:30}}>
+<span>&nbsp;&nbsp;</span>The last two weeks we covered some intriguing ideas related to quantum interference and the delayed choice
+quantum eraser in quantum mechanics, as well as the concept of time, especially, the extended simultaneity 
+concept in relativity. This week, we will present some thoughts on these topics in 
+a theological viewpoint!  
+</h5>
+{/* style={{ width: 1200,position: "absolute",left: 30 }} */}
+{/* <Card >
+  <Card.Img variant="top" src="holder.js/100px180" />
+  <Card.Body>
+    <Card.Title></Card.Title>
+    <Card.Text style={{textAlign:"left"}}>
+    The last two weeks we covered some intriguing ideas related to quantum interference and the delayed choice quantum eraser in quantum mechanics,as well as the concept of time, especially, the extended simultaneity concept in relativity. This week,we will presents some thoughts on these topics in a theological viewpoint!   
+    </Card.Text>
+    <Button variant="primary">Go somewhere</Button>
+  </Card.Body>
+</Card> */}
 
-
-</p>
-
-
-
-
+<br />
+        <br /> <br />
+        <br />
 <p style={{color: "blue",fontSize:20,   position: "absolute",left: 30}}>Some videos to watch:</p>
    
         <br />
@@ -76,7 +92,7 @@ The last two weeks we covered some intriguing ideas related to quantu
 
         </div>
 
-       
+</div>
        
        )
        
