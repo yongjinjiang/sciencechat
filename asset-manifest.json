@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sciencechat/static/css/main.5a856e0a.chunk.css",
-    "main.js": "/sciencechat/static/js/main.3642f09e.chunk.js",
-    "main.js.map": "/sciencechat/static/js/main.3642f09e.chunk.js.map",
-    "runtime-main.js": "/sciencechat/static/js/runtime-main.9dfbfa77.js",
-    "runtime-main.js.map": "/sciencechat/static/js/runtime-main.9dfbfa77.js.map",
-    "static/css/2.b0bb7f2c.chunk.css": "/sciencechat/static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.0daed6e4.chunk.js": "/sciencechat/static/js/2.0daed6e4.chunk.js",
-    "static/js/2.0daed6e4.chunk.js.map": "/sciencechat/static/js/2.0daed6e4.chunk.js.map",
-    "index.html": "/sciencechat/index.html",
-    "precache-manifest.828592bd32289a8d92168228b41e73c6.js": "/sciencechat/precache-manifest.828592bd32289a8d92168228b41e73c6.js",
-    "service-worker.js": "/sciencechat/service-worker.js",
-    "static/css/2.b0bb7f2c.chunk.css.map": "/sciencechat/static/css/2.b0bb7f2c.chunk.css.map",
-    "static/css/main.5a856e0a.chunk.css.map": "/sciencechat/static/css/main.5a856e0a.chunk.css.map",
-    "static/media/logo.svg": "/sciencechat/static/media/logo.25bf045c.svg"
+    "main.css": "/static/css/main.5a856e0a.chunk.css",
+    "main.js": "/static/js/main.0d47e4ad.chunk.js",
+    "main.js.map": "/static/js/main.0d47e4ad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a72496fc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a72496fc.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.0daed6e4.chunk.js": "/static/js/2.0daed6e4.chunk.js",
+    "static/js/2.0daed6e4.chunk.js.map": "/static/js/2.0daed6e4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b144662e3f210237a7a01218b9facf19.js": "/precache-manifest.b144662e3f210237a7a01218b9facf19.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.5a856e0a.chunk.css.map": "/static/css/main.5a856e0a.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9dfbfa77.js",
+    "static/js/runtime-main.a72496fc.js",
     "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.0daed6e4.chunk.js",
     "static/css/main.5a856e0a.chunk.css",
-    "static/js/main.3642f09e.chunk.js"
+    "static/js/main.0d47e4ad.chunk.js"
   ]
 }
